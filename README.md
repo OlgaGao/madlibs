@@ -1,2 +1,0 @@
-# madlibs
-Created with CodeSandbox
